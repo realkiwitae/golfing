@@ -1,5 +1,12 @@
 # golfing
-Just sharing my golfing solutions
+Just sharing golfing games ~
+
+# Tooling
+use command 
+```bash
+bash ./update_score.sh ./README.md  
+```
+to set the TODO list up to date, it will automatically fill the boxes and add score
 
 https://www.codingame.com/codegolf
 
