@@ -10,14 +10,15 @@ to set the TODO list up to date, it will automatically fill the boxes and add sc
 
 https://www.codingame.com/codegolf
 
+
 ### Easy
 
 - [ ] https://www.codingame.com/codegolf/easy/ascii-art-codesize
 - [x] https://www.codingame.com/codegolf/easy/temperature-code-golf | score: 65
 - [x] https://www.codingame.com/codegolf/easy/the-descent-codesize | score: 53
 - [x] https://www.codingame.com/codegolf/easy/power-of-thor | score: 113
-- [ ] https://www.codingame.com/codegolf/easy/chuck-norris-codesize
-- [ ] https://www.codingame.com/codegolf/easy/don%27t-panic
+- [x] https://www.codingame.com/codegolf/easy/chuck-norris-codesize | score: 132
+- [x] https://www.codingame.com/codegolf/easy/don%27t-panic | score: 169
 
 ### Medium
 
