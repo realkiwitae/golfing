@@ -13,7 +13,7 @@ https://www.codingame.com/codegolf
 
 ### Easy
 
-- [x] https://www.codingame.com/codegolf/easy/ascii-art-codesize | score: 157
+- [x] https://www.codingame.com/codegolf/easy/ascii-art-codesize | score: 139
 - [x] https://www.codingame.com/codegolf/easy/temperature-code-golf | score: 65
 - [x] https://www.codingame.com/codegolf/easy/the-descent-codesize | score: 53
 - [x] https://www.codingame.com/codegolf/easy/power-of-thor | score: 113
