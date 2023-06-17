@@ -13,16 +13,16 @@ https://www.codingame.com/codegolf
 
 ### Easy
 
-- [x] https://www.codingame.com/codegolf/easy/ascii-art-codesize | score: 139
-- [x] https://www.codingame.com/codegolf/easy/temperature-code-golf | score: 65
-- [x] https://www.codingame.com/codegolf/easy/the-descent-codesize | score: 53
-- [x] https://www.codingame.com/codegolf/easy/power-of-thor | score: 113
-- [x] https://www.codingame.com/codegolf/easy/chuck-norris-codesize | score: 132
-- [x] https://www.codingame.com/codegolf/easy/don%27t-panic | score: 169
+- [x] https://www.codingame.com/codegolf/easy/ascii-art-codesize
+- [x] https://www.codingame.com/codegolf/easy/temperature-code-golf
+- [x] https://www.codingame.com/codegolf/easy/the-descent-codesize
+- [x] https://www.codingame.com/codegolf/easy/power-of-thor
+- [x] https://www.codingame.com/codegolf/easy/chuck-norris-codesize
+- [x] https://www.codingame.com/codegolf/easy/don%27t-panic
 
 ### Medium
 
-- [ ] https://www.codingame.com/codegolf/medium/shadows-of-the-knight-episode-1-codesize
+- [x] https://www.codingame.com/codegolf/medium/shadows-of-the-knight-episode-1-codesize | score: 207
 - [ ] https://www.codingame.com/codegolf/medium/network-cabling-codesize
 - [ ] https://www.codingame.com/codegolf/medium/telephone-numbers-codesize
 - [ ] https://www.codingame.com/codegolf/medium/dwarfs-standing-on-the-shoulders-of-giants-codesize
