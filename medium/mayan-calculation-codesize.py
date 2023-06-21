@@ -5,7 +5,7 @@ def B(n,b):
  q=-1;o='' 
  while q!=0:q=n//b;r=n%b;o=d[r]+o;n=q 
  return o
-def U():return sum((20**i)*[*d.keys()][[*d.values()].index('\n'.join(I()for j in R(l))+'\n')]for i in R(int(int(I())/l)-1,-1,-1))
+def U():return sum((20**i)*[*d.keys()][[*d.values()].index('\n'.join(I()for j in R(l))+'\n')]for i in R(int(I())//l-1,-1,-1))
 d=dict(zip(R(20),['']*20))
 for i in R(h):
  n=I()
