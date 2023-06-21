@@ -27,7 +27,7 @@ https://www.codingame.com/codegolf
 - [x] https://www.codingame.com/codegolf/medium/telephone-numbers-codesize | score: 105
 - [x] https://www.codingame.com/codegolf/medium/dwarfs-standing-on-the-shoulders-of-giants-codesize | score: 161
 - [x] https://www.codingame.com/codegolf/medium/blunder-episode-1-codesize | score: 767
-- [ ] https://www.codingame.com/codegolf/medium/mayan-calculation-codesize
+- [x] https://www.codingame.com/codegolf/medium/mayan-calculation-codesize | score: 380
 
 ### Hard
 - [ ] https://www.codingame.com/codegolf/hard/the-labyrinth-codesize
